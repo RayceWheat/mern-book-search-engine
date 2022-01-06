@@ -5,11 +5,10 @@ import { Form, Button, Alert } from 'react-bootstrap';
 import { LOGIN_USER } from '../utils/mutations';
 import { useMutation } from '@apollo/client';
 
-// import { loginUser } from '../utils/API';
 import Auth from '../utils/auth';
 
 const LoginForm = () => {
-  const [login, { error }] = useMutation(LOGIN_USER);
+  const [login] = useMutation(LOGIN_USER);
 
   const [userFormData, setUserFormData] = useState({ email: '', password: '' });
   const [validated] = useState(false);
@@ -39,7 +38,6 @@ const LoginForm = () => {
 
       } catch (err) {
         console.error(err);
-        setShowAlert(true);
       }
 
       setUserFormData({
