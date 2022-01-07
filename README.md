@@ -12,9 +12,11 @@ This app is a refactor of a working MERN stack application to use Apollo Server/
 ## Usage
 At the root of the app use `npm run develop` to start both the client and server.
 
+## Video
 ![Video](https://drive.google.com/file/d/10Arr5arO1nKksjg84g2eu-epvWx5VdYw/view?usp=sharing)
 
 ## Link 
+This [App](https://mern-book-serach-engine.herokuapp.com/) is deployed on Heroku
 
 ## Credits 
 Initial code by [Xandromus](https://github.com/Xandromus) and the rest by [Rayce Wheat](https://github.com/RayceWheat)
