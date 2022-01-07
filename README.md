@@ -13,7 +13,7 @@ This app is a refactor of a working MERN stack application to use Apollo Server/
 At the root of the app use `npm run develop` to start both the client and server.
 
 ## Image
-![Image]
+![Image](https://raw.githubusercontent.com/RayceWheat/mern-book-search-engine/main/demo-video/deployed-image.jpg)
 ![Video](https://drive.google.com/file/d/10Arr5arO1nKksjg84g2eu-epvWx5VdYw/view?usp=sharing)
 
 ## Link 
