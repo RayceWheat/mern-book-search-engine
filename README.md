@@ -12,7 +12,8 @@ This app is a refactor of a working MERN stack application to use Apollo Server/
 ## Usage
 At the root of the app use `npm run develop` to start both the client and server.
 
-## Video
+## Image
+![Image]
 ![Video](https://drive.google.com/file/d/10Arr5arO1nKksjg84g2eu-epvWx5VdYw/view?usp=sharing)
 
 ## Link 
