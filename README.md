@@ -7,7 +7,7 @@ This app is a refactor of a working MERN stack application to use Apollo Server/
 
 ## Installation
 1. Clone the repository
-2. Make sure dependencies are installed via `npm install` client, server, and the root folders
+2. Make sure dependencies are installed via `npm install` in the client, server, and the root folders
 
 ## Usage
 At the root of the app use `npm run develop` to start both the client and server.
