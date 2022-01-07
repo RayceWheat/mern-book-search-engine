@@ -14,7 +14,7 @@ At the root of the app use `npm run develop` to start both the client and server
 
 ## Image
 ![Image](https://raw.githubusercontent.com/RayceWheat/mern-book-search-engine/main/demo-video/deployed-image.jpg)
-![Video](https://drive.google.com/file/d/10Arr5arO1nKksjg84g2eu-epvWx5VdYw/view?usp=sharing)
+[Video](https://drive.google.com/file/d/10Arr5arO1nKksjg84g2eu-epvWx5VdYw/view?usp=sharing)
 
 ## Link 
 This [App](https://mern-book-serach-engine.herokuapp.com/) is deployed on Heroku
